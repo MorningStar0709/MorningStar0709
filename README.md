@@ -9,7 +9,7 @@ Building practical AI Agents with solid engineering discipline.
 
 ### 🔭 Currently
 
-Building **[MinerU](https://github.com/MorningStar0709/MinerU)** — intelligent document processing pipeline with production-grade architecture.
+Building **[MinerU](https://github.com/MorningStar0709/control-sci)** — intelligent document processing pipeline with production-grade architecture.
 
 ### 🛠 Tech Stack
 
