@@ -3,7 +3,7 @@
 I'm **MorningStar** — system architect bridging control, networking & AI.  
 Building practical AI Agents with solid engineering discipline.
 
-📝 Blog: [藏星阁](https://www.iilsle.com)
+📝 Blog: [藏星阁](https://www.iiilsle.com)
 
 ---
 
@@ -21,6 +21,6 @@ Building **[MinerU](https://github.com/MorningStar0709/control-sci)** — intell
 
 ### 📫 Contact
 
-[![Blog](https://img.shields.io/badge/Blog-藏星阁-6B21A8?style=flat-square)](https://www.iilsle.com)
+[![Blog](https://img.shields.io/badge/Blog-藏星阁-6B21A8?style=flat-square)](https://www.iiilsle.com)
 
 
