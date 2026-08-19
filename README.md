@@ -1,16 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=MorningStar;Control+%C3%97+Networking+%C3%97+AI;Building+practical+Agents" alt="Typing SVG" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorningStar0709&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorningStar0709&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorningStar0709&theme=tokyonight" alt="Top Languages" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=MorningStar;control+%C3%97+networking+%C3%97+AI" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -21,31 +10,24 @@
 
 ---
 
-I'm a system architect working at the intersection of **control theory, networking, and AI**.
-I build things that work — not things that look good on paper.
+在控制、网络、AI 的交叉地带慢慢折腾。
 
-- **Agent Engineering** — [trae-agent-enhancements](https://github.com/MorningStar0709/trae-agent-enhancements): 34 skills + dual-track memory for AI coding agents
-- **Document Intelligence** — [ControlMind](https://github.com/MorningStar0709/ControlMind): cross-modal benchmark + medical RAG pipeline
-- **Systems Tooling** — from Rust CLI proxies to Go bandwidth aggregators, I like making the boring parts fast
+偶尔写点东西 → [藏星阁](https://www.iiisle.com)
 
 ---
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- **Rust基础层安装** — Jun 1, 2026 https://www.iiisle.com/archives/hkdTVoy9
-- **Trae AI Agent Enhancements 记忆系统 — 双轨持久化记忆** — May 2, 2026 https://www.iiisle.com/archives/YtKvazk1
-- **Win 异常重启诊断与 PCIe 省电关闭方案** — May 1, 2026 https://www.iiisle.com/archives/mu7kwQ15
-- **Win11 瑞昱 2.5G 有线网卡断网修复方案** — May 1, 2026 https://www.iiisle.com/archives/lA9cpbIy
-- **Trae Bonus记录（按月更新）** — May 1, 2026 https://www.iiisle.com/archives/OOt4ObTF<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
-  <a href="https://www.iiisle.com"><img src="https://img.shields.io/badge/Blog-iiisle.com-6B21A8?style=for-the-badge&logo=ghostery&logoColor=white" alt="Blog"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://www.iiisle.com"><img src="https://img.shields.io/badge/Blog-iiisle.com-6B21A8?style=flat-square&logo=ghostery&logoColor=white" alt="Blog"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </div>
