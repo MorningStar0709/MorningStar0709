@@ -28,7 +28,12 @@ I build things that work — not things that look good on paper.
 - **Document Intelligence** — [ControlMind](https://github.com/MorningStar0709/ControlMind): cross-modal benchmark + medical RAG pipeline
 - **Systems Tooling** — from Rust CLI proxies to Go bandwidth aggregators, I like making the boring parts fast
 
-I also write about what I build over at [**iiisle.com**](https://www.iiisle.com).
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
