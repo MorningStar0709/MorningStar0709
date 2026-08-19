@@ -32,8 +32,7 @@ I build things that work — not things that look good on paper.
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 2026-45-01 Rust基础层安装 https://www.iiisle.com/archives/hkdTVoy9- 2026-23-02 Trae AI Agent Enhancements 记忆系统 — 双轨持久化记忆 https://www.iiisle.com/archives/YtKvazk1- 2026-39-01 Win 异常重启诊断与 PCIe 省电关闭方案 https://www.iiisle.com/archives/mu7kwQ15- 2026-37-01 Win11 瑞昱 2.5G 有线网卡断网修复方案 https://www.iiisle.com/archives/lA9cpbIy- 2026-42-01 Trae Bonus记录（按月更新） https://www.iiisle.com/archives/OOt4ObTF<!-- BLOG-POST-LIST:END -->
 
 ---
 
