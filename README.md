@@ -21,7 +21,7 @@ System architect working at the intersection of control theory, networking, and 
 - **Trae AI Agent Enhancements 记忆系统 — 双轨持久化记忆** — May 2, 2026 https://www.iiisle.com/archives/YtKvazk1
 - **Win 异常重启诊断与 PCIe 省电关闭方案** — May 1, 2026 https://www.iiisle.com/archives/mu7kwQ15
 - **Win11 瑞昱 2.5G 有线网卡断网修复方案** — May 1, 2026 https://www.iiisle.com/archives/lA9cpbIy
-- **Trae Bonus记录（按月更新）** — May 1, 2026 https://www.iiisle.com/archives/OOt4ObTF<!-- BLOG-POST-LIST:END -->
+- **Trae Bonus记录** — May 1, 2026 https://www.iiisle.com/archives/OOt4ObTF<!-- BLOG-POST-LIST:END -->
 
 # Tech Stack
 
