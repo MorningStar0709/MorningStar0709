@@ -5,18 +5,18 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MorningStar0709">
-    <img src="https://github-readme-stats.vercel.app/api?username=MorningStar0709&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/MorningStar0709">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorningStar0709&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorningStar0709&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorningStar0709&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorningStar0709&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorningStar0709&theme=react-dark&hide_border=true&area=true&bg_color=00000000" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorningStar0709&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
