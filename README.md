@@ -1,4 +1,4 @@
-# Hey, I'm MorningStar
+# Hi
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=26&pause=1000&color=6BC27F&center=true&vCenter=true&width=600&lines=MorningStar;Control+%C3%97+Networking+%C3%97+AI" alt="Typing SVG" /></a>
