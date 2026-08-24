@@ -17,11 +17,11 @@ System architect working at the intersection of control theory, networking, and 
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **PVE系统安装指南** — Aug 23, 2026 https://www.iiisle.com/archives/Vy4VWQvf
 - **Rust基础层安装** — Jun 1, 2026 https://www.iiisle.com/archives/hkdTVoy9
 - **Trae AI Agent Enhancements 记忆系统 — 双轨持久化记忆** — May 2, 2026 https://www.iiisle.com/archives/YtKvazk1
 - **Win 异常重启诊断与 PCIe 省电关闭方案** — May 1, 2026 https://www.iiisle.com/archives/mu7kwQ15
-- **Win11 瑞昱 2.5G 有线网卡断网修复方案** — May 1, 2026 https://www.iiisle.com/archives/lA9cpbIy
-- **Trae Bonus记录** — May 1, 2026 https://www.iiisle.com/archives/OOt4ObTF<!-- BLOG-POST-LIST:END -->
+- **Win11 瑞昱 2.5G 有线网卡断网修复方案** — May 1, 2026 https://www.iiisle.com/archives/lA9cpbIy<!-- BLOG-POST-LIST:END -->
 
 # Tech Stack
 
