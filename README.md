@@ -11,7 +11,6 @@ System architect working at the intersection of control theory, networking, and 
 # Contribution Activity
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/MorningStar0709?label=followers&style=flat-square&logo=github&color=181717" alt="followers"/> <img src="https://img.shields.io/badge/repositories-12-0969da?style=flat-square&logo=github&logoColor=white" alt="repositories"/> <img src="https://img.shields.io/badge/stars-25-fbc20f?style=flat-square&logo=github&logoColor=white" alt="stars"/> <img src="https://img.shields.io/badge/pull%20requests-17-2da44e?style=flat-square&logo=github&logoColor=white" alt="pull requests"/>
 <img src="https://activity-graph-navy.vercel.app/graph?username=MorningStar0709&theme=github-light&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
